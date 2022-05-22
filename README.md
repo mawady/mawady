@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi i'm Mohamed 👋
+[![Linkedin Badge](https://img.shields.io/badge/-mawady-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawady/)](https://www.linkedin.com/in/mawady/)
+[![Website Badge](https://img.shields.io/badge/-website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mawady.github.io)](https://mawady.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-@mawady-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mawady)](https://twitter.com/mawady)
+
+Welcome to my profile.
 
 <!--
 **mawady/mawady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
