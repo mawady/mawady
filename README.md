@@ -38,7 +38,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mawady&show_icons=true&theme=merko)](https://github.com/mawady)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&layout=compact&theme=merko)](https://github.com/mawady/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mawady/mawady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
