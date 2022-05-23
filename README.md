@@ -26,13 +26,13 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 
 ## Article Repos
 - [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification.
-- ICISP'18 - Coming soon!, Editorial Image Retrieval Using Handcrafted and CNN Features.
-- ICIAR'18 - Coming soon!, Mobile-Based Painting Photo Retrieval Using Combined Features.
+- [Available Soon] ICISP'18, Editorial Image Retrieval Using Handcrafted and CNN Features.
+- [Available Soon] ICIAR'18, Mobile-Based Painting Photo Retrieval Using Combined Features.
 - [ICCVW'17](https://github.com/mawady/ColorSymDetect), Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms.
-- CAIP'17 - Coming soon!, Multiple reflection symmetry detection via linear-directional kernel density estimation.
+- [Available Soon] CAIP'17, Multiple reflection symmetry detection via linear-directional kernel density estimation.
 - [arXiv'17](https://github.com/mawady/DeepRetinalClassification), Automatic Classification of Bright Retinal Lesions via Deep Network Features.
 - [ICIAR'16](https://github.com/mawady/bus-segmentation), Automatic nonlinear filtering and segmentation for breast ultrasound images.
-- arXiv'16 - Coming soon!,Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
+- [Available Soon] arXiv'16,Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
 
 
 <!--
