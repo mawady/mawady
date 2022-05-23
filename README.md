@@ -17,7 +17,6 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - PhD in Computer Vision, France (2014 - 2019)
 - Joint MSc in Computer Vision and Robotics, Europe (2012 - 2014)
 - Winner of ICCV 2017 2D reflection symmetry detection competitions (among participants)
-- Specialities: image processing and analysis, robotics vision, deep learning, medical imaging, embedded systems
 
 ## Educational Repos
 - [awesome-cv](https://github.com/mawady/awesome-cv), curated educational list for computer vision.
