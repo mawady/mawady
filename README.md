@@ -34,6 +34,11 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - [ICIAR'16](https://github.com/mawady/bus-segmentation), Automatic nonlinear filtering and segmentation for breast ultrasound images.
 - [Available Soon] arXiv'16,Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
 
+---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mawady&show_icons=true&theme=merko)](https://github.com/mawady)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&layout=compact&theme=merko)](https://github.com/mawady/github-readme-stats)
 
 <!--
 **mawady/mawady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
