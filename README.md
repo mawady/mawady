@@ -20,7 +20,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 
 ## Educational Repos
 - [awesome-cv](https://github.com/mawady/awesome-cv), curated educational list for computer vision.
-- [RoadToFAANG_CV](https://github.com/mawady/RoadToFAANG_CV), the Hitchhiker’s guide in getting a FAANG job (Computer Vision).
+- [RoadToFAANG_CV](https://github.com/mawady/RoadToFAANG_CV), Hitchhiker’s guide in getting a FAANG job (Computer Vision).
 - [WIP] [AwesomeToolsCV](https://github.com/mawady/awesome-tools-cv), curated list of development and deployment tools for Computer Vision projects.
 - [WIP] [colab-recipes-cv](https://github.com/mawady/colab-recipes-cv), Colab recipes for computer vision for educational and research use.
 
