@@ -3,6 +3,8 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=mawady.mawady??style=for-the-badge&logo=appveyor"></a>
 </p>
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mawady&label=Profile%20views&color=0e75b6&style=flat" alt="mawady" /> </p> -->
+
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-mawady-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawady/)](https://www.linkedin.com/in/mawady/)
@@ -68,8 +70,9 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mawady&show_icons=true&theme=merko)](https://github.com/mawady)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mawady&show_icons=true&locale=en)](https://github.com/mawady)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mawady" alt="mawady" /></a> </p>
 
 <!--
 **mawady/mawady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
