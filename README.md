@@ -1,7 +1,7 @@
 ## Hi i'm Mohamed 👋
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=mawady.mawady??style=for-the-badge&logo=appveyor"></a>
-</p>
+</p> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mawady&label=Profile%20views&color=0e75b6&style=flat" alt="mawady" /> </p> -->
 
