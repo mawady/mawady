@@ -27,6 +27,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - [WIP] [AwesomeToolsCV](https://github.com/mawady/awesome-tools-cv), curated list of development and deployment tools for Computer Vision projects.
 - [WIP] [YouAndYourResearchCV](https://github.com/mawady/YouAndYourResearchCV.md), Guide on How to Do Research in Computer Vision.
 - [WIP] [colab-recipes-cv](https://github.com/mawady/colab-recipes-cv), Colab recipes for computer vision for educational and research use.
+- [WIP] [Books-CS](https://github.com/mawady/Books-CS), Curated book reading list in computer science.
 
 ## Article Repos
 - [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification.
