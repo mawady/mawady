@@ -36,7 +36,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - [Available Soon] CAIP'17, Multiple reflection symmetry detection via linear-directional kernel density estimation.
 - [arXiv'17](https://github.com/mawady/DeepRetinalClassification), Automatic Classification of Bright Retinal Lesions via Deep Network Features.
 - [ICIAR'16](https://github.com/mawady/bus-segmentation), Automatic nonlinear filtering and segmentation for breast ultrasound images.
-- [Available Soon] arXiv'16,Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
+- [Available Soon] arXiv'16, Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
 
 ## Skills
 ### Languages
