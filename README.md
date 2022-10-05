@@ -72,7 +72,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 ---
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mawady&show_icons=true&locale=en)](https://github.com/mawady) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawady&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mawady&column=8&no-frame=true" alt="mawady" /></a> </p>
 
 <!--
