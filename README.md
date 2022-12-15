@@ -16,7 +16,7 @@
 
 ## Short Bio
 Mohamed is a senior-level computer vision researcher with industrial and academic experience in image processing and robotics field over 10 years. He has managed technical projects with worldwide clients and European partners. His research expertise involves embedded vision, information retrieval and medical imaging. He has published highly cited papers in top computer vision conferences (i.e., ICCV, ACVIS, CAIP, VCIP). He serves as a reviewer for a number of journals and conferences in computer vision field.
-- University Lecturer at Stirling University, UK (2020 - Present)
+- Teaching Fellow at University of Strathclyde, UK (2022 - Present)
 - PhD in Computer Vision, France (2014 - 2019)
 - Joint MSc in Computer Vision and Robotics, Europe (2012 - 2014)
 - Winner of ICCV 2017 2D reflection symmetry detection competitions (among participants)
