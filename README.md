@@ -22,7 +22,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - Winner of ICCV 2017 2D reflection symmetry detection competitions (among participants)
 
 ## Educational Repos
-- [awesome-cv](https://github.com/mawady/awesome-cv), curated educational list for computer vision.
+- [awesome-computer-vision](https://github.com/mawady/awesome-computer-vision), A structured learning reference for computer vision: from image fundamentals to research frontiers.
 - [awesome-tools-cv](https://github.com/mawady/awesome-tools-cv), curated list of development and deployment tools for Computer Vision projects.
 - [RoadToFAANG_CV](https://github.com/mawady/RoadToFAANG_CV), Hitchhiker’s guide in getting a FAANG job (Computer Vision).
 - [awesome-academic](https://github.com/mawady/awesome-academic), curated list of academic tools for teaching and research.
