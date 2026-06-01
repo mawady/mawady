@@ -26,8 +26,7 @@ Mohamed is a senior-level computer vision researcher with industrial and academi
 - [awesome-computer-vision-tools](https://github.com/mawady/awesome-computer-vision-tools), About
 Curated tools for the full CV pipeline: training, data augmentation, experiment tracking, inference, edge deployment, and MLOps.
 - [RoadToFAANG_CV](https://github.com/mawady/RoadToFAANG_CV), Hitchhiker’s guide in getting a FAANG job (Computer Vision).
-- [awesome-academic](https://github.com/mawady/awesome-academic), curated list of academic tools for teaching and research.
-- [WIP] [awesome-cs](https://github.com/mawady/awesome-cs/), curated educational list for computer science.
+- [awesome-academic-cs](https://github.com/mawady/awesome-academic-cs), curated list of academic resources for teaching and research in computer science.
 - [WIP] [cv-recipes](https://github.com/mawady/cv-recipes), Recipes for computer vision for educational and research use.
 
 ## Article Repos
