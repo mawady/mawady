@@ -40,7 +40,7 @@ Specialities: Computer Vision | Image Processing and Analysis | Deep Learning | 
 - [cv-recipes](https://github.com/mawady/cv-recipes) [![Stars](https://img.shields.io/github/stars/mawady/cv-recipes?style=flat&label=★)](https://github.com/mawady/cv-recipes), Recipes for computer vision for educational and research use.
 
 ## Article Repos
-- [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification.
+- [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification [10.1109/VCIP53242.2021.9675445](https://doi.org/10.1109/VCIP53242.2021.9675445).
 - [Available Soon] ICISP'18, Editorial Image Retrieval Using Handcrafted and CNN Features.
 - [Available Soon] ICIAR'18, Mobile-Based Painting Photo Retrieval Using Combined Features.
 - [ICCVW'17](https://github.com/mawady/ColorSymDetect), Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms.
