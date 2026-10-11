@@ -41,13 +41,13 @@ Specialities: Computer Vision | Image Processing and Analysis | Deep Learning | 
 
 ## Article Repos
 - [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification [10.1109/VCIP53242.2021.9675445](https://doi.org/10.1109/VCIP53242.2021.9675445).
-- [Available Soon] ICISP'18, Editorial Image Retrieval Using Handcrafted and CNN Features.
-- [Available Soon] ICIAR'18, Mobile-Based Painting Photo Retrieval Using Combined Features.
-- [ICCVW'17](https://github.com/mawady/ColorSymDetect), Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms.
-- [Available Soon] CAIP'17, Multiple reflection symmetry detection via linear-directional kernel density estimation.
-- [arXiv'17](https://github.com/mawady/DeepRetinalClassification), Automatic Classification of Bright Retinal Lesions via Deep Network Features.
-- [ICIAR'16](https://github.com/mawady/bus-segmentation), Automatic nonlinear filtering and segmentation for breast ultrasound images.
-- [Available Soon] arXiv'16, Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles.
+- [ICISP'18] Editorial Image Retrieval Using Handcrafted and CNN Features [10.1007/978-3-319-94211-7_31](https://doi.org/10.1007/978-3-319-94211-7_31).
+- [ICIAR'18] Mobile-Based Painting Photo Retrieval Using Combined Features [10.1007/978-3-319-93000-8_32](https://doi.org/10.1007/978-3-319-93000-8_32).
+- [ICCVW'17](https://github.com/mawady/ColorSymDetect), Wavelet-based Reflection Symmetry Detection via Textural and Color Histograms [10.1109/ICCVW.2017.203](https://doi.org/10.1109/ICCVW.2017.203).
+- [CAIP'17] Multiple reflection symmetry detection via linear-directional kernel density estimation [10.1007/978-3-319-64689-3_28](https://doi.org/10.1007/978-3-319-64689-3_28).
+- [arXiv'17](https://github.com/mawady/DeepRetinalClassification), Automatic Classification of Bright Retinal Lesions via Deep Network Features [10.48550/arXiv.1707.02022](https://doi.org/10.48550/arXiv.1707.02022).
+- [ICIAR'16](https://github.com/mawady/bus-segmentation), Automatic nonlinear filtering and segmentation for breast ultrasound images [10.1007/978-3-319-41501-7_24](https://doi.org/10.1007/978-3-319-41501-7_24).
+- [arXiv'16] Detecting and avoiding frontal obstacles from monocular camera for micro unmanned aerial vehicles [10.48550/arXiv.1603.09422](https://doi.org/10.48550/arXiv.1603.09422).
 
 ## Skills
 ### Languages
