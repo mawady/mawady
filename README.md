@@ -24,12 +24,13 @@
 </div>
 
 ## Short Bio
-Mohamed is a Lead Computer Vision Researcher and Academic with around 20 years of experience at the intersection of Image Processing, Robotics, and Artificial Intelligence. I hold a PhD in Computer Vision (France, 2014–2019) and a Joint European MSc in Computer Vision and Robotics (2012–2014). Currently a Teaching Fellow at the University of Strathclyde, UK, and previously a Lecturer at the University of Stirling, I bring both rigorous research expertise and a strong commitment to education and knowledge transfer.   
+Dr Mohamed is a Lead Computer Vision Researcher and academic with nearly 20 years of experience at the intersection of image processing, robotics, and artificial intelligence. He holds a PhD in Computer Vision (France, 2014–2019) and a Joint European MSc in Computer Vision and Robotics (2012–2014). He is currently a Teaching Fellow at the University of Strathclyde, UK, and previously served as a Lecturer at the University of Stirling. His career combines rigorous research expertise with a strong commitment to education, knowledge transfer, and the practical application of AI.
 
-My technical work spans deep learning, medical imaging, embedded systems, and robotic vision, with a proven track record of delivering complex AI projects for worldwide clients and European research partners. I was also a winner of the ICCV 2017 2D Reflection Symmetry Detection Competition, a recognition that reflects the quality and impact of my research. Beyond academia, I have extensive experience in technical project management, collaborating with cross-functional, international teams to translate cutting-edge research into practical, industry-ready solutions.
+His technical expertise spans deep learning, medical imaging, embedded systems, and robotic vision, complemented by a proven track record of delivering complex AI projects for international clients and European research partners. He won the **ICCV 2017 2D Reflection Symmetry Detection Competition**, a recognition of the quality and impact of his research. Beyond academia, he brings extensive experience in technical project management, working with cross-functional, international teams to translate cutting-edge research into practical, industry-ready solutions.
 
-I am open to consulting engagements, research collaborations, and advisory roles in AI and Computer Vision. Feel free to connect or reach out.   
-Specialities: Computer Vision | Image Processing and Analysis | Deep Learning | Medical Imaging | Robotic Vision | Embedded Systems | Human-Centred AI | Education Technologies
+Dr Mohamed welcomes consulting engagements, research collaborations, and advisory opportunities in AI and Computer Vision. Feel free to connect or get in touch to discuss potential collaborations.
+
+**Specialities:** Computer Vision | Image Processing and Analysis | Deep Learning | Medical Imaging | Robotic Vision | Embedded Systems | Human-Centred AI | Educational Technologies
 
 ## Educational Repos
 - [awesome-computer-vision-resources](https://github.com/mawady/awesome-computer-vision-resources) [![Stars](https://img.shields.io/github/stars/mawady/awesome-computer-vision-resources?style=flat&label=★)](https://github.com/mawady/awesome-computer-vision-resources), A structured learning reference for computer vision: from image fundamentals to research frontiers.
