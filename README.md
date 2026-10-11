@@ -7,9 +7,17 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-mawady-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mawady/)](https://www.linkedin.com/in/mawady/)
-[![Website Badge](https://img.shields.io/badge/-website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mawady.github.io)](https://mawady.github.io)
-[![Google Scholar Badge](https://img.shields.io/badge/-googlescholar-47CCCC?style=flat&logo=googlescholar&logoColor=white&link=[https://mawady.github.io](https://scholar.google.com/citations?user=EcmimJEAAAAJ&hl=en))](https://scholar.google.com/citations?user=EcmimJEAAAAJ&hl=en)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mawady/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mawady.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=EcmimJEAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+</p>
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@mawady-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mawady)](https://twitter.com/mawady)
 -->
 
