@@ -40,6 +40,12 @@ Specialities: Computer Vision | Image Processing and Analysis | Deep Learning | 
 - [cv-recipes](https://github.com/mawady/cv-recipes) [![Stars](https://img.shields.io/github/stars/mawady/cv-recipes?style=flat&label=★)](https://github.com/mawady/cv-recipes), Recipes for computer vision for educational and research use.
 
 ## Article Repos
+- [ICMV'26](https://github.com/mawady/icmv26), An End-to-End Framework for Urban Planning Analysis from Street-View Imagery.
+- [EUVIP'26](https://github.com/mawady/euvip26), ARB12: Addressing Geographic and Semantic Bias in Urban Street-View Segmentation for Arab Cities.
+- [MIUA'26](https://github.com/mawady/miua26), Coarse-to-Fine Breast Lesion Segmentation in Ultrasound Images: A Detection-Guided Two-Stage Framework.
+- [UKICER'26](https://github.com/mawady/ukicer26), Bridging Learning Outcomes and Module Specifications: GenAI Framework for Curriculum Development in CS Education [10.1145/3830800.3830829](https://doi.org/10.1145/3830800.3830829).
+- [UKICER'25](https://github.com/mawady/ukicer25), Advancing Assessment Practices in CS Education through AI-Generated Visual Test Cases [10.1145/3754508.3754538](https://doi.org/10.1145/3754508.3754538).
+- [DSP'23], TRAIT: A Trusted Media Distribution Framework [10.1109/DSP58604.2023.10167909](https://doi.org/10.1109/DSP58604.2023.10167909).
 - [VCIP'21](https://github.com/mawady/vcip21), Security and Forensics Exploration of Learning-based Image Coding: Watermarking and Source Identification [10.1109/VCIP53242.2021.9675445](https://doi.org/10.1109/VCIP53242.2021.9675445).
 - [ICISP'18] Editorial Image Retrieval Using Handcrafted and CNN Features [10.1007/978-3-319-94211-7_31](https://doi.org/10.1007/978-3-319-94211-7_31).
 - [ICIAR'18] Mobile-Based Painting Photo Retrieval Using Combined Features [10.1007/978-3-319-93000-8_32](https://doi.org/10.1007/978-3-319-93000-8_32).
